@@ -1,4 +1,4 @@
-# game-one
+# game-one 🎮
 A simple 🎮game for 📚Learning Purposes
 
 
